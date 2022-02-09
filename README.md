@@ -10,7 +10,7 @@
 #### From my hobbies is Coding , Video Game and Football **❤️**
 
 
-#### **my e-mail :** aslmfawzy172@gmail.com
+#### **e-mail :** aslmfawzy172@gmail.com
 
 
 ## Contact Me At
