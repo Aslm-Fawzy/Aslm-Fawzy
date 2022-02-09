@@ -1,5 +1,6 @@
 # Welcome Everyone 👋 I'm Aslm Fawzy
----------
+---
+
  #### My name is Aslm Fawzy , 21 years old from Alexandria, Egypt   **😃**
  
 #### I'm currently student at facualty of AI in Kafr-Elsheikh University **👨‍💼**
@@ -13,7 +14,7 @@
 
 
 ## Contact Me At
----------
+---
 
 <a href="https://www.linkedin.com/in/aslm-fawzy-3b808b1b7/"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="aslmfawzy172@gmail.com
