@@ -2,11 +2,11 @@
 ---------
  ### My name is Aslm Fawzy 21 years old from Alexandria, Egypt   **😃**
  
- #### I'm currently student at facualty of AI in Kafr-Elsheikh University **👨‍💼**
+ ### I'm currently student at facualty of AI in Kafr-Elsheikh University **👨‍💼**
  
- Likes coding and learning in many fileds as Data Analysis , Machine Learning and Data Science **🥰**
+### Likes coding and learning in many fileds as Data Analysis , Machine Learning and Data Science **🥰**
 
-From my hobbies is Coding , Video Game and Football **❤️**
+### From my hobbies is Coding , Video Game and Football **❤️**
 
 
 ### **my e-mail :** aslmfawzy172@gmail.com
