@@ -12,9 +12,12 @@
 
 ####  How to reach me **aslmfawzy172@gmail.com** 📫
 
+
 #### Using some frameworks as 
 
-<a href="https://www.python.org/"><img height="32" width="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&psig=AOvVaw0Dk2fKPOjPoiMkWLAFJUZ7&ust=1644499641292000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDeq9rc8vUCFQAAAAAdAAAAABAD" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org/"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://opencv.org/"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pandas.pydata.org//"><img height="32" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9htFfFe1Wf_eyWQ8rdtHW29NKl28CAKu3VMyvY9rGD-PSpyZmQPj9ppGRMU-bHCCMDvQ&usqp=CAU" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://opencv.org/"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 # Contact Me At
 ---
