@@ -5,3 +5,5 @@
  I'm currently student at facualty of AI in Kafr-Elsheikh University.
  
  Likes coding in many fileds as Data Analysis , ML and Data Science.
+
+From my hobbies is Coding , Video Game and Football.
