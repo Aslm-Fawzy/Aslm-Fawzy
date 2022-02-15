@@ -23,5 +23,5 @@
 ---
 
 <a href="https://www.linkedin.com/in/aslm-fawzy-3b808b1b7/"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/aslmfawzy"><img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/aslmfawzy"><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/aslm.fawzy/"><img height="50" width="50" src="https://brandlogos.net/wp-content/uploads/2021/04/facebook-icon.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
