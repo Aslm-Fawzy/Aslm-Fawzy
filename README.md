@@ -1,9 +1,7 @@
 # Welcome Everyone **👋** I'm Aslm Fawzy 
 
 ---
-<a href="https://www.python.org/"><img height="40" width="40" src="https://images.app.goo.gl/FvdatsqSpaMw8mfD7" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://numpy.org/"><img height="60" width="100" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pandas.pydata.org//"><img height="60" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://opencv.org/"><img height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://seaborn.pydata.org/"><img height="60" width="100" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://matplotlib.org/3.4.1/index.html/"><img height="60" width="100" src="https://matplotlib.org/3.4.1/_static/logo2_compressed.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scikit-learn.org/stable/"><img height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.nltk.org/"><img height="50" width="50" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img height="40" width="40" src=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://numpy.org/"><img height="60" width="100" 
 
 
 
