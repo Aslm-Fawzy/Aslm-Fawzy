@@ -23,7 +23,7 @@
 <a href="https://pandas.pydata.org//"><img height="60" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://opencv.org/"><img height="80" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://seaborn.pydata.org/"><img height="30" width="100" src = "https://apmonitor.com/pds/uploads/Main/python_seaborn.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://matplotlib.org/3.4.1/index.html/"><img height="60" width="100" src="https://matplotlib.org/3.4.1/_static/logo2_compressed.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://matplotlib.org/3.4.1/index.html/"><img height="30" width="100" src="https://matplotlib.org/3.4.1/_static/logo2_compressed.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://scikit-learn.org/stable/"><img height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.nltk.org/"><img height="50" width="50" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mysql.com/"><img height="50" width="100" src="https://engineering.speakol.com/content/images/2020/08/MySQL-Logo.wine.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
