@@ -2,6 +2,7 @@
 
 ---
 
+![image title](https://rushter.com/counter.svg) 
 #### My name is Aslm Fawzy , 21 years old from Alexandria, Egypt   **😃**
  
 #### I'm currently student at facualty of AI in Kafr-Elsheikh University **👨‍💼**
@@ -13,7 +14,6 @@
 
 ####  How to reach me  **📫**  **aslmfawzy172@gmail.com**  
 
-![image title](https://rushter.com/counter.svg) 
 
 #### **Frameworks that I commenly use :**
 
