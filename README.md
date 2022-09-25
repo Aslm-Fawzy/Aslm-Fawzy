@@ -1,9 +1,6 @@
 # Welcome Everyone **👋** I'm Aslm Fawzy 
 
 ---
-![image title](https://rushter.com/counter.svg)
-
-
 
 #### My name is Aslm Fawzy , 21 years old from Alexandria, Egypt   **😃**
  
@@ -16,6 +13,7 @@
 
 ####  How to reach me  **📫**  **aslmfawzy172@gmail.com**  
 
+![image title](https://rushter.com/counter.svg) 
 
 #### **Frameworks that I commenly use :**
 
