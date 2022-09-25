@@ -7,11 +7,11 @@
  
 #### I'm currently student at facualty of AI in Kafr-Elsheikh University **👨‍💼**
  
-#### Likes coding and learning in many fileds as Data Analysis , Machine Learning and Data Science **🥰**
+#### Likes coding and learning in many fileds as Data Analysis , Machine Learning and Data Science **🤖**
 
 #### From my hobbies is Coding , Video Game and Football **❤️**
 
-### I've ![image title](https://rushter.com/counter.svg) for My Github
+#### My Github Profile Views Number : ![image title](https://rushter.com/counter.svg) 
 
 ####  How to reach me  **📫**  **aslmfawzy172@gmail.com**  
 
