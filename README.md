@@ -27,6 +27,7 @@
 <a href="https://www.mysql.com/"><img height="50" width="100" src="https://engineering.speakol.com/content/images/2020/08/MySQL-Logo.wine.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://beautiful-soup-4.readthedocs.io/en/latest/"><img height="50" width="150" src="https://th.bing.com/th/id/OIP.2-2SpFRCHkcQargUjlzMzQHaBO?w=342&h=60&c=7&r=0&o=5&dpr=1.25&pid=1.7" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://selenium-python.readthedocs.io/ "><img height="50" width="120" src="https://www.bing.com/th?id=A20065aa17289f52989425b87f574c719&w=188&h=132&c=7&o=6&dpr=1.25&pid=SANGAM" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://th.bing.com/th/id/R.13467064a970f4d19e90fc429b88c5fc?rik=%2fU5wnvpObK9YEA&pid=ImgRaw&r=0"><img height="50" width="150" src="https://www.bing.com/th?id=A20065aa17289f52989425b87f574c719&w=188&h=132&c=7&o=6&dpr=1.25&pid=SANGAM" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <br/>
 
