@@ -24,10 +24,10 @@
 <a href="https://matplotlib.org/3.4.1/index.html/"><img height="30" width="100" src="https://matplotlib.org/3.4.1/_static/logo2_compressed.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://scikit-learn.org/stable/"><img height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.nltk.org/"><img height="50" width="50" src="https://miro.medium.com/max/592/1*5dQO7LHrsy3lIi2d0bgRLw.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.mysql.com/"><img height="50" width="100" src="https://engineering.speakol.com/content/images/2020/08/MySQL-Logo.wine.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img height="60" width="160" src="https://www.fusion-reactor.com/wp-content/uploads/2019/02/mssql.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://beautiful-soup-4.readthedocs.io/en/latest/"><img height="50" width="150" src="https://th.bing.com/th/id/OIP.2-2SpFRCHkcQargUjlzMzQHaBO?w=342&h=60&c=7&r=0&o=5&dpr=1.25&pid=1.7" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://selenium-python.readthedocs.io/ "><img height="50" width="120" src="https://www.bing.com/th?id=A20065aa17289f52989425b87f574c719&w=188&h=132&c=7&o=6&dpr=1.25&pid=SANGAM" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://th.bing.com/th/id/R.13467064a970f4d19e90fc429b88c5fc?rik=%2fU5wnvpObK9YEA&pid=ImgRaw&r=0"><img height="50" width="150" src="https://www.bing.com/th?id=A20065aa17289f52989425b87f574c719&w=188&h=132&c=7&o=6&dpr=1.25&pid=SANGAM" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://powerbi.microsoft.com/en-us/"> <img height="50" width="150" src="https://th.bing.com/th/id/R.13467064a970f4d19e90fc429b88c5fc?rik=%2fU5wnvpObK9YEA&pid=ImgRaw&r=0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <br/>
 
